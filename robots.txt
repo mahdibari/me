@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://graceful-llama-b24f5c.netlify.app/sitemap.xml
